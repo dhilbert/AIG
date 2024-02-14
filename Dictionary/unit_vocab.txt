@@ -1,0 +1,38 @@
+addandsub	덧셈과 뺄셈
+division1	나눗셈1
+multiplication1	곱셈1
+lenandtime	길이와 시간
+fraanddec	분수와 소수
+multiplication2	곱셈2
+division2	나눗셈2
+fraction	분수
+sizeandweight	들이와 무게
+bignum	큰 수
+mulanddiv	곱셈과 나눗셈
+findingrule	규칙 찾기
+fractionaddsub1	분수의 덧셈과 뺄셈1
+decimaladdsub	소수의 덧셈과 뺄셈
+naturalmixcal	자연수의 혼합 계산
+denandmul	약수와 배수
+rulandres	규칙과 대응
+reductionfra	약분과 통분
+fractionaddsub2	분수의 덧셈과 뺄셈2
+ranandrou	수의 범위와 어림하기
+fractionmul	분수의 곱셈
+decimalmul	소수의 곱셈
+aveandpro	평균과 가능성
+fractiondiv1	분수의 나눗셈1
+decimaldiv1	소수의 나눗셈1
+ratandpro	비와 비율
+fractiondiv2	분수의 나눗셈2
+decimaldiv2	소수의 나눗셈2
+proandpro	비례식과 비례배분
+flate	평면 도형
+circle	원
+angle	각도
+triangle	삼각형
+rectangle	사각형
+polygon	다각형
+roundandarea	다각형의 둘레와 넓이
+conandsym	합동과 대칭
+areaofcircle	원의 넓이
